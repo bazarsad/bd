@@ -1,0 +1,23 @@
+# Flashcard sample file
+# Format: Q: question / A: answer
+
+Q: 7*1
+A: 7
+
+Q: 7*2
+A: 14
+
+Q: 7*3
+A: 21
+
+Q: 7*4
+A: 28
+
+Q: 7*5
+A: 35
+
+Q: 7*6
+A: 42
+
+Q: 7*7
+A: 49
