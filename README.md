@@ -11,6 +11,7 @@ java -jar target/flashcard.jar sample-cards.txt --order worst-first
 java -jar target/flashcard.jar sample-cards.txt --order recent-mistakes-first
 java -jar target/flashcard.jar sample-cards.txt --order random
 java -jar target/flashcard.jar sample-cards.txt --order worst-first --repetitions 3
+java -jar target/flashcard.jar sample-cards.txt --invertCards**
 java -jar target/flashcard.jar --help
 ```
 
